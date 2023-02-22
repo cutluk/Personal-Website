@@ -1,0 +1,84 @@
+///
+/// Future Imperfect by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Basic */
+
+	// MSIE: Required for IEMobile.
+		@-ms-viewport {
+			width: device-width;
+		}
+
+	// MSIE: Prevents scrollbar from overlapping content.
+		body {
+			-ms-overflow-style: scrollbar;
+			background-color: #f4f4f4;
+		}
+
+	// Ensures page width is always >=320px.
+		@include breakpoint(xsmall) {
+			html, body {
+				min-width: 320px;
+			}
+		}
+
+	
+
+	body {
+
+		#dark {
+			background-color: rgb(10, 10, 10) !important;
+		}
+		#light {
+			// background: _palette(bg-alt);
+			background-color: #f4f4f4 !important;
+		}
+		
+		// background: black;
+		// background: _palette(bg-alt);
+
+		// Prevents animation/transition "flicker" on page load.
+		// Automatically added/removed by js/main.js.
+			&.is-loading {
+				*, *:before, *:after {
+					@include vendor('animation', 'none !important');
+					@include vendor('transition', 'none !important');
+				}
+			}
+
+	// _post.scss
+	// _typography.scss
+	// _header.scss
+
+	}
+
+	#dark .LightDarkButton{
+		color: white;
+	}
+
+	#light .LightDarkButton{
+		color: black;
+	}
+
+	.LightDarkDiv{
+		position:fixed;
+		right:0;
+		z-index: _misc(z-index-base)+1;
+		margin-top: -52px;
+		margin-right: 6vw;
+		padding-bottom: 0px !important;
+	}
+
+
+	@include breakpoint(small){
+		.LightDarkDiv{
+			margin-right: 9.5vw;
+		}
+	}
+	@include breakpoint(xsmall){
+		.LightDarkDiv{
+			margin-right: 14vw;
+		}
+	}
