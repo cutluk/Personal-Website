@@ -8,7 +8,7 @@ const data = [
     date: '2023-02-28',
     desc:
       'I used a Raspberry Pi to create a server that hosts my file server and a proxy server for my AI Chatbot. ' 
-      + 'I have a 2TB hard drive attached to the Pi that I use to store my files.' 
+      + 'I have a 2TB hard drive attached to the Pi that I use to store my files. ' 
       + 'With my file server, I can access my files on the hard drive from anywhere in the world. ',
   },
   {
