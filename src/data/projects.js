@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Raspberry Pi Server',
+    subtitle: 'Raspberry Pi',
+    link: '',
+    image: '/images/projects/RaspberryPiPic.png',
+    date: '2023-02-28',
+    desc:
+      'I used a Raspberry Pi to create a server that hosts my file server and my proxy server for my AI Chatbot. ' 
+      + 'I have a 2TB hard drive attached to the Pi that I use to store my files. '
+      + 'With the file server, I can access my files from anywhere in the world. ',
+  },
+  {
     title: 'AI Chatbot using GTP-3',
     subtitle: 'GPT-3 Chatbot',
     link: 'https://ai.lukecutting.com',
