@@ -39,7 +39,7 @@ const data = [
     image: '/images/projects/IMG_7359.jpeg',
     date: '2022-07-20',
     desc:
-      'While at Amaozon, I created a JavaScrpit program using the extension tampermonkey to calculate key metrics for Operation Mangers at Amazon.'
+      'While at Amazon, I created a JavaScrpit program using the extension tampermonkey to calculate key metrics for Operation Mangers at Amazon.'
       + ' This script was launched to 77 sites across North America and is used by over 1000 managers. '
       + ' I recieved accolades from my manager for my work on this project as it saves them hours of work each week. ',
   },
