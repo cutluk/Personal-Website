@@ -1,9 +1,9 @@
 // TODO Add a couple lines about each project
 const data = [
+  
   {
     title: 'Raspberry Pi Server',
     subtitle: 'Raspberry Pi',
-    link: '',
     image: '/images/projects/RaspberryPiPic.png',
     date: '2023-02-28',
     desc:
@@ -30,8 +30,18 @@ const data = [
     date: '2022-12-26',
     desc:
       'This is a website I created for my CPA. '
-      + 'I created it using modern web-development practices with quality one can expect from my services. '
+      + 'I created it using modern React Application practices with quality one can expect from my services. '
       + 'Feel free to click the image to view the website.',
+  },
+  {
+    title: 'Amazon Metric Calculator',
+    subtitle: 'Metric Calculator for PPR',
+    image: '/images/projects/IMG_7359.jpeg',
+    date: '2022-07-20',
+    desc:
+      'While at Amaozon, I created a JavaScrpit program using the extension tampermonkey to calculate key metrics for Operation Mangers at Amazon.'
+      + ' This script was launched to 77 sites across North America and is used by over 1000 managers. '
+      + ' I recieved accolades from my manager for my work on this project as it saves them hours of work each week. ',
   },
   {
     title: 'Solitaire iOS Application',
