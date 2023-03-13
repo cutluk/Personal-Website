@@ -5,9 +5,9 @@ const positions = [
     link: 'https://emergingtech.co',
     daterange: 'November 2022 - Present',
     points: [
-      'Built production, on-line, end-to-end optimized business applications using React, Node.js, HTML, CSS, and JavaScript',
-      'Led a team of cybersecurity and software engineers in the development of web applications and server functionality',
-      'Engineered and built computer networking systems to optimize employee and customer data security',
+      'Programmed business applications using React, Node.js, HTML, CSS, and JavaScript',
+      'Configured company computer networking system complete with an Intrusion Protection System, VPN Gateway, Firewalls, and Data Servers',
+      'Worked with a team of cybersecurity and software engineers in the development of web applications and server functionality',
       'Employed a monolithic client-server model SaaS leveraging AWS cloud functions and AWS CloudWatch to schedule periodic Puppeteer Web Scraping that supports an automated, auto-improving database',
     ],
   },

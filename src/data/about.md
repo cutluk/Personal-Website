@@ -1,10 +1,12 @@
 # Intro
 
-I'm a Website Developer that can build web applications for your business. I want to help small businesses create professional websites that are unique, customizable, and secure at an affordable price. As a software developer, I can program a website to your specific business needs. If you think I can be helpful to you or would like to meet me, please feel free to get in [touch](mailto:Luke.E.Cutting@gmail.com).
+As a software developer, I have experience in developing and maintaining software applications using a variety of programming languages and technologies. My expertise lies in creating high-quality, scalable, and secure software solutions that meet business requirements. If you are interested in meeting me, please feel free to get in [touch](mailto:Luke.E.Cutting@gmail.com).
 
 # Currently
 
-At the University of Florida, I have learned how to work with teams, create innovative solutions, program effectively, and build on-line web applications with technologies like [JavaScript](/resume#skills), [React](resume#skills), [HTML](resume#skills), and [CSS](resume#skills). I am excited to say I will be graduating in the May of 2023.
+At Emerging Technologies, I have had the opportunity to work collaboratively with teams and contribute to the development of innovative solutions. My focus has been on developing on-line web applications using cutting-edge technologies such as [JavaScript](/resume#skills), [React](resume#skills), [HTML](resume#skills), and [CSS](resume#skills).
+# 
+In addition to my software development expertise, I also have experience in computer networking. I was responsible for planning, building, and configuring a company network from the ground up. This involved designing and implementing various network components such as an Intrusion Prevention System (IPS), a VPN gateway, and firewalls. I worked closely with other IT professionals to ensure that the network was secure, reliable, and scalable.
 
 # Some history
 

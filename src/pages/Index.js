@@ -25,7 +25,7 @@ const Index = () => (
           <p>
           <Typewriter
               options={{
-                strings: ['I\'m a website developer who is skilled at creating unique, responsive, statically-generated, react applications for your business.',
+                strings: ['I\'m a software developer who thrives on challenging projects and is always seeking new ways to learn and improve my craft.',
                   'Please feel free to read more about me, check out my resume, projects, site statistics, or contact me!'],
                 autoStart: true,
                 loop: true,
