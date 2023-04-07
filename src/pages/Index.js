@@ -44,7 +44,7 @@ const Index = () => (
                 <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
               </Link>
               <header>
-                <h2>Luke Cutting</h2>
+                <h2 className='mainName'>Luke Cutting</h2>
                 <p><a href="mailto:Luke.E.Cutting@gmail.com">Luke.E.Cutting@gmail.com</a></p>
               </header>
             </section>
