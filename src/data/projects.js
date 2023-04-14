@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
-  
+  {
+    title: 'Gym Buddy',
+    subtitle: 'Gym Buddy App',
+    link: 'https://gymbuddy.lukecutting.com',
+    image: '/images/projects/gymbuddy.png',
+    date: '2023-04-14',
+    desc:
+      'I created a mobile application that allows users to find a gym buddy. ' +
+      'I used React to create the app and Flask to handle the data. ' +
+      'User authentication is managed by firebase. ',
+  },
   {
     title: 'Raspberry Pi Server',
     subtitle: 'Raspberry Pi',
