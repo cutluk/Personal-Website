@@ -12,6 +12,18 @@ const positions = [
     ],
   },
   {
+    company: 'Freelance Web Developer',
+    position: 'Software Engineer',
+    link: 'https://lukecutting.com',
+    daterange: 'January 2023 - Present',
+    points: [
+      'Developed a website for local businesses using React, Node.js, HTML, CSS, and JavaScript',
+      'Created Power Apps using microsoft office 365 to automate business processes',
+      'Designed and implemented AI chatbots using Microsoft Azure',
+      
+    ],
+  },
+  {
     company: 'Amazon',
     position: 'Area Manager Intern',
     link: 'http://amazon.com',
