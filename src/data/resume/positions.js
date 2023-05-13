@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'Emerging Tech',
-    position: 'Software Developer / Network Engineer',
+    position: 'Software Engineer',
     link: 'https://emergingtech.co',
     daterange: 'November 2022 - Present',
     points: [
