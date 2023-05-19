@@ -13,7 +13,7 @@ const positions = [
   },
   {
     company: 'Freelance Web Developer',
-    position: 'Software Engineer',
+    position: 'Front-End Software Engineer',
     link: 'https://lukecutting.com',
     daterange: 'January 2023 - Present',
     points: [
