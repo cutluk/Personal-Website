@@ -53,7 +53,7 @@ const Index = () => (
             <section className="blurbmain">
               <h2 className='abouttitle'>Hello</h2>
               <p className='maintext'>I&apos;m Luke, and I like building things.
-                I&apos;m a Freelance Website Developer as well as a Software Engineer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
+                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Freelance Website Developer</a> as well as a Software Engineer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
                 an <a href="https://amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a> Operations Manager Intern.
               </p>
               <ul className="actions">

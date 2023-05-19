@@ -20,8 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Luke. I like building things.
-        I&apos;m a student at the <a href="https://www.ufl.edu/" target="_blank" rel="noopener noreferrer">University of Florida</a> and
-        a software developer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
+        I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Freelance Website Developer</a> as well as a Software Engineer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
         an <a href="https://amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a> Operations Manager Intern.
       </p>
       <ul className="actions">
