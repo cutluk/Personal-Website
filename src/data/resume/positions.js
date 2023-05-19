@@ -3,7 +3,7 @@ const positions = [
     company: 'Emerging Tech',
     position: 'Software Engineer',
     link: 'https://emergingtech.co',
-    daterange: 'November 2022 - Present',
+    daterange: 'August 2022 - Present',
     points: [
       'Programmed business applications using React, Node.js, HTML, CSS, and JavaScript',
       'Configured company computer networking system complete with an Intrusion Protection System, VPN Gateway, Firewalls, and Data Servers',
