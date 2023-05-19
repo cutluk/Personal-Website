@@ -39,7 +39,7 @@ const positions = [
     company: 'Security Information Team',
     position: 'Member',
     link: 'https://ufsit.org/about.html',
-    daterange: 'August 2021 - Present',
+    daterange: 'August 2021 - May 2023',
     points: [
       'Participated in events such as the Collegiate Cyber Defense Competition (CCDC) and the Collegiate Penetration Testing Competition (CPTC)',
       'Attended weekly meetings that include presentations from club members and industry professionals on a variety of security topics',
