@@ -25,7 +25,7 @@ const Index = () => (
           <p>
           <Typewriter
               options={{
-                strings: ['I\'m a software developer who thrives on challenging projects and is always seeking new ways to learn and improve my craft.',
+                strings: ['I\'m a software engineer who thrives on challenging projects.',
                   'Please feel free to read more about me, check out my resume, projects, site statistics, or contact me!'],
                 autoStart: true,
                 loop: true,
@@ -53,7 +53,7 @@ const Index = () => (
             <section className="blurbmain">
               <h2 className='abouttitle'>Hello</h2>
               <p className='maintext'>I&apos;m Luke, and I like building things.
-                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Freelance Website Developer</a> as well as a Software Engineer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
+                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Freelance Website Developer</a> and a Software Engineer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
                 an <a href="https://amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a> Operations Manager Intern.
               </p>
               <ul className="actions">
