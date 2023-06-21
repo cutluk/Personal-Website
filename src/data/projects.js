@@ -1,5 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
+  // {
+  //   title: 'Workout Log',
+  //   subtitle: 'Workout Log App',
+  //   link: '',
+  //   image: '/images/projects/gymbuddy.png',
+  //   date: '2023-04-14',
+  //   desc:
+  //     'I created an iOS app that allows users to track their workout progress. ' +
+  //     'This program was created in Swift and leverages the Composable Architecture. ',
+  // },
   {
     title: 'Gym Buddy',
     subtitle: 'Gym Buddy App',
