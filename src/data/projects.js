@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Perfect Routine',
+    title: 'GymNotes',
     subtitle: 'Workout Log App',
     link: '',
     image: '/images/projects/PerfectRoutine.png',
