@@ -1,9 +1,9 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'GymNotes',
+    title: 'GymNotes+',
     subtitle: 'Workout Log App',
-    link: '',
+    link: 'https://apps.apple.com/us/app/gymnotes/id6450513434',
     image: '/images/projects/PerfectRoutine.png',
     date: '2023-06-22',
     desc:
