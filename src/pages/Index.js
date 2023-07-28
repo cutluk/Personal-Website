@@ -11,8 +11,8 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Luke Cutting's personal website. Gainesville based University of Florida Student, "
-    + 'Software Developer at Emerging Techonlgies'}
+    description={"Luke Cutting's personal website. Gainesville based University of Florida Alumni, "
+    + 'Self Employed Software Developer'}
   >
      
     <div className="mainpage">
@@ -53,8 +53,8 @@ const Index = () => (
             <section className="blurbmain">
               <h2 className='abouttitle'>Hello</h2>
               <p className='maintext'>I&apos;m Luke, and I like building things.
-                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Freelance Website Developer</a> and a Software Engineer at <a href="https://emergingtech.co" target="_blank" rel="noopener noreferrer">Emerging Tech</a>. Previous to my position at Emerging Tech, I was
-                an <a href="https://amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a> Operations Manager Intern.
+                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">React Website Developer</a> and a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Microsoft Teams App Developer</a>. Previous to my freelance career, I was
+                an <a href="https://amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a> Operations Manager.
               </p>
               <ul className="actions">
                 <li>

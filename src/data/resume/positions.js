@@ -1,17 +1,5 @@
 const positions = [
   {
-    company: 'Emerging Tech',
-    position: 'Software Engineer',
-    link: 'https://emergingtech.co',
-    daterange: 'August 2022 - Present',
-    points: [
-      'Programmed business applications using React, Node.js, HTML, CSS, and JavaScript',
-      'Configured company computer networking system complete with an Intrusion Protection System, VPN Gateway, Firewalls, and Data Servers',
-      'Worked with a team of cybersecurity and software engineers in the development of web applications and server functionality',
-      'Employed a monolithic client-server model SaaS leveraging AWS cloud functions and AWS CloudWatch to schedule periodic Puppeteer Web Scraping that supports an automated, auto-improving database',
-    ],
-  },
-  {
     company: 'Freelance Web Developer',
     position: 'Front-End Software Engineer',
     link: 'https://lukecutting.com',
@@ -21,6 +9,18 @@ const positions = [
       'Created Power Apps using microsoft office 365 to automate business processes',
       'Designed and implemented AI chatbots using Microsoft Azure',
       
+    ],
+  },
+  {
+    company: 'Emerging Tech',
+    position: 'Software Engineer',
+    link: 'https://emergingtech.co',
+    daterange: 'August 2022 - July 2023',
+    points: [
+      'Programmed business applications using React, Node.js, HTML, CSS, and JavaScript',
+      'Configured company computer networking system complete with an Intrusion Protection System, VPN Gateway, Firewalls, and Data Servers',
+      'Worked with a team of cybersecurity and software engineers in the development of web applications and server functionality',
+      'Employed a monolithic client-server model SaaS leveraging AWS cloud functions and AWS CloudWatch to schedule periodic Puppeteer Web Scraping that supports an automated, auto-improving database',
     ],
   },
   {

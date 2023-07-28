@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'The 365 Collective',
+    subtitle: 'Website',
+    link: 'https://the365collective-26e86.web.app/',
+    image: '/images/projects/the365collective.png',
+    date: '2023-07-27',
+    desc:
+      'This is a website I created for a client on Upwork.' +
+      'He needed a new website for his personal consulting business.' +
+      'In addition to this website, I also created custom internal Microsoft Teams app for his business.',
+  },
+  {
     title: 'GymNotes+',
     subtitle: 'Workout Log App',
     link: 'https://apps.apple.com/us/app/gymnotes/id6450513434',
@@ -9,27 +20,6 @@ const data = [
     desc:
       'I created an iOS app that allows users to track their workout progress. ' +
       'This program was created in Swift and leverages the Composable Architecture. I plan on adding onto this app in the future.',
-  },
-  {
-    title: 'Gym Buddy',
-    subtitle: 'Gym Buddy App',
-    link: 'https://gymbuddy.lukecutting.com',
-    image: '/images/projects/gymbuddy.png',
-    date: '2023-04-14',
-    desc:
-      'I created a mobile application that allows users to find a gym buddy. ' +
-      'I used React to create the app and Flask to handle the data. ' +
-      'User authentication is managed by firebase. ',
-  },
-  {
-    title: 'Raspberry Pi Server',
-    subtitle: 'Raspberry Pi',
-    image: '/images/projects/RaspberryPiPic.png',
-    date: '2023-02-28',
-    desc:
-      'I used a Raspberry Pi to create a server that hosts my file server and a proxy server for my AI Chatbot. ' 
-      + 'I have a 2TB hard drive attached to the Pi that I use to store my files. ' 
-      + 'With my file server, I can access my files on the hard drive from anywhere in the world. ',
   },
   {
     title: 'AI Chatbot using GTP-3',
@@ -54,6 +44,16 @@ const data = [
       + 'Feel free to click the image to view the website.',
   },
   {
+    title: 'Raspberry Pi Server',
+    subtitle: 'Raspberry Pi',
+    image: '/images/projects/RaspberryPiPic.png',
+    date: '2023-02-28',
+    desc:
+      'I used a Raspberry Pi to create a server that hosts my file server and a proxy server for my AI Chatbot. ' 
+      + 'I have a 2TB hard drive attached to the Pi that I use to store my files. ' 
+      + 'With my file server, I can access my files on the hard drive from anywhere in the world. ',
+  },
+  {
     title: 'Amazon Metric Calculator',
     subtitle: 'Metric Calculator for PPR',
     image: '/images/projects/IMG_7359.jpeg',
@@ -62,6 +62,17 @@ const data = [
       'While at Amazon, I created a JavaScrpit program using the extension tampermonkey to calculate key metrics for Operation Mangers at Amazon.'
       + ' This script was launched to 77 sites across North America and is used by over 1000 managers. '
       + ' I recieved accolades from my manager for my work on this project as it saves them hours of work each week. ',
+  },
+  {
+    title: 'Gym Buddy',
+    subtitle: 'Gym Buddy App',
+    link: 'https://gymbuddy.lukecutting.com',
+    image: '/images/projects/gymbuddy.png',
+    date: '2023-04-14',
+    desc:
+      'I created a mobile application that allows users to find a gym buddy. ' +
+      'I used React to create the app and Flask to handle the data. ' +
+      'User authentication is managed by firebase. ',
   },
   {
     title: 'Solitaire iOS Application',
