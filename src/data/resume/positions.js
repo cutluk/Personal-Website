@@ -5,15 +5,14 @@ const positions = [
     link: 'https://lukecutting.com',
     daterange: 'January 2023 - Present',
     points: [
-      'Developed a website for local businesses using React, Node.js, HTML, CSS, and JavaScript',
-      'Created Power Apps using microsoft office 365 to automate business processes',
-      'Designed and implemented AI chatbots using Microsoft Azure',
-      
+      'Developed multiple professional websites for businesses using React, Node.js, HTML, CSS, and JavaScript',
+      'Collaborated with professional development teams to create and maintain enterprise-level React applications',
+      'Created Microsoft Teams app leveraging DataVerse and SharePoints API to automate and optimize business processes',
     ],
   },
   {
     company: 'Emerging Tech',
-    position: 'Software Engineer',
+    position: 'Front-End Software Engineer',
     link: 'https://emergingtech.co',
     daterange: 'August 2022 - July 2023',
     points: [
