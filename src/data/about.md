@@ -1,10 +1,10 @@
 # Intro
 
-As a software developer, I have experience in developing and maintaining software applications using a variety of programming languages and technologies. My expertise lies in creating high-quality, scalable, and secure software solutions that meet business requirements. If you are interested in meeting me, please feel free to get in [touch](mailto:Luke.E.Cutting@gmail.com).
+As a Self Employed Front-End Engineer, I believe in providing excellent customer service through my work and communication. I love being a part of impactfull projects that help make peoples lives easier. If you are interested in meeting me, please feel free to get in [touch](mailto:Luke.E.Cutting@gmail.com).
 
 # Currently
 
-At Emerging Technologies, I have had the opportunity to work collaboratively with teams and contribute to the development of innovative solutions. My focus has been on developing on-line web applications using cutting-edge technologies such as [JavaScript](/resume#skills), [React](resume#skills), [HTML](resume#skills), and [CSS](resume#skills).
+I have had the opportuninty to create [professional websites](projects) for multiple busineses, as well as work with professional development teams creating enterprise level React applications. This has propelled my experience in React and other web-develement technologies further than I could've ever believed. I have become an expert in cutting-edge technologies such as [JavaScript](/resume#skills), [React](resume#skills), [HTML](resume#skills), and [CSS](resume#skills).
 # 
 In addition to my software development expertise, I also have experience in computer networking. I was responsible for planning, building, and configuring a company network from the ground up. This involved designing and implementing various network components such as an Intrusion Prevention System (IPS), a VPN gateway, and firewalls. I worked closely with other IT professionals to ensure that the network was secure, reliable, and scalable.
 
