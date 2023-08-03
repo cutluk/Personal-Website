@@ -11,7 +11,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Luke Cutting's personal website. Gainesville based University of Florida Alumni, "
+    description={"Luke Cutting's personal website. Austin,TX based University of Florida Alumni, "
     + 'Self Employed Software Developer'}
   >
      
@@ -25,7 +25,7 @@ const Index = () => (
           <p>
           <Typewriter
               options={{
-                strings: ['I\'m a software engineer who thrives on challenging projects.',
+                strings: ['I\'m a front-end developer who thrives on challenging projects.',
                   'Please feel free to read more about me, check out my resume, projects, site statistics, or contact me!'],
                 autoStart: true,
                 loop: true,
@@ -53,7 +53,7 @@ const Index = () => (
             <section className="blurbmain">
               <h2 className='abouttitle'>Hello</h2>
               <p className='maintext'>I&apos;m Luke, and I like building things.
-                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">React Website Developer</a> and a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Microsoft Teams App Developer</a>. Previous to my freelance career, I was
+                I&apos;m a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">React Front-End Developer</a> and a <a href="https://www.upwork.com/freelancers/~012b93459496deb8fb" target="_blank" rel="noopener noreferrer">Microsoft Teams App Developer</a>. Previous to my freelance career, I was
                 an <a href="https://amazon.com" target="_blank" rel="noopener noreferrer">Amazon</a> Operations Manager.
               </p>
               <ul className="actions">

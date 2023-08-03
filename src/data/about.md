@@ -1,10 +1,10 @@
 # Intro
 
-As a Self Employed Front-End Engineer, I believe in providing excellent customer service through my work and communication. I love being a part of impactfull projects that help make peoples lives easier. If you are interested in meeting me, please feel free to get in [touch](mailto:Luke.E.Cutting@gmail.com).
+As a self employed front-end software engineer, I believe in providing excellent customer service through my work and communication. I love being a part of impactfull projects that help make peoples lives easier. If you are interested in meeting me, please feel free to get in [touch](mailto:Luke.E.Cutting@gmail.com).
 
 # Currently
 
-I have had the opportuninty to create [professional websites](projects) for multiple busineses, as well as work with professional development teams creating enterprise level React applications. This has propelled my experience in React and other web-develement technologies further than I could've ever believed. I have become an expert in cutting-edge technologies such as [JavaScript](/resume#skills), [React](resume#skills), [HTML](resume#skills), and [CSS](resume#skills).
+I've had the opportuninty to create [professional websites](projects) for multiple busineses, as well as work with professional development teams creating enterprise level React applications. This has propelled my experience in React and other web-develement technologies further than I could've ever believed. I have become an expert in cutting-edge technologies such as [JavaScript](/resume#skills), [React](resume#skills), [HTML](resume#skills), and [CSS](resume#skills).
 # 
 In addition to my software development expertise, I also have experience in computer networking. I was responsible for planning, building, and configuring a company network from the ground up. This involved designing and implementing various network components such as an Intrusion Prevention System (IPS), a VPN gateway, and firewalls. I worked closely with other IT professionals to ensure that the network was secure, reliable, and scalable.
 
@@ -20,7 +20,9 @@ In addition to my software development expertise, I also have experience in comp
 
 - At 21, I got accepted in [Amazon's](https://amazon.com) Internship program where I spent the summer in Spokane, Washington. During my time there, I created a JavaScript program for mangers that automatically calculated shift critical operation values. I then coordinated with system engineers to launch the program officially to 77 fulfillment centers across North America.
 
-- In the Fall, I was hired as a part-time software developer for a government contracting company, [Emerging Tech](https://emergingtech.co). Here I was able to apply my software development skills with team of developers for the first time. This position gave me the knowledge and confidence I needed to finally create my own website development business.
+- At 21, I was hired as a part-time software developer for a government contracting company, [Emerging Tech](https://emergingtech.co). Here I was able to apply my software development skills with team of developers for the first time. This position gave me the knowledge and confidence I needed to finally create my own website development business.
+
+- At 22, I decided to take the leap of faith and become a full-time freelance developer. It was nerve-racking at first, however, the opportunity to be my own boss and ability work on many different impactfull projects was too appealing. So far I have had the pleasure to work with some amazing people on some amazing projects.
 
 # Travel / Geography
 
