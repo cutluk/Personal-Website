@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Gainesville, Fl',
+    value: 'Austin, TX',
   },
 ];
 

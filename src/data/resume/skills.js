@@ -4,7 +4,7 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 5,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -13,8 +13,18 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'React',
+    title: 'Firebase',
     competency: 4,
+    category: ['Web Development', 'Tools'],
+  },
+  {
+    title: 'OpenAI API',
+    competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'React',
+    competency: 5,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -24,33 +34,33 @@ const skills = [
   },
   {
     title: 'MongoDB',
-    competency: 2,
+    competency: 1,
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 2,
+    title: 'SQL',
+    competency: 1,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
-    title: 'Numpy',
-    competency: 1,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
     title: 'Typescript',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
-    title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    title: 'HTML',
+    competency: 5,
     category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'CSS/SCSS',
+    competency: 5,
+    category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'TailwindCSS',
+    competency: 4,
+    category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Python',
@@ -63,18 +73,13 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'Pandas',
-    competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
     title: 'Java',
-    competency: 3,
+    competency: 2,
     category: ['Languages'],
   },
   {
     title: 'Swift',
-    competency: 3,
+    competency: 4,
     category: ['Languages'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
@@ -82,17 +87,15 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
-  '#64cb7b',
+ 
+  '#f5b642',
+  '#42adf5',
+  '#d95050',
+  
+  '#b642f5',
+
+  '#1cb519',
+
 ];
 
 const categories = [
