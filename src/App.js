@@ -4,6 +4,7 @@ import React, {
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
+import Certification from './pages/Certifications';
 
 const { PUBLIC_URL } = process.env;
 
@@ -15,6 +16,7 @@ const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
+const Certifications = lazy(() => import('./pages/Certifications'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 
@@ -40,6 +42,7 @@ const App = () => {
               <Route exact path="/" component={Index} />
               <Route path="/about" component={About} />
               <Route path="/projects" component={Projects} />
+              <Route path="/certifications" component={Certifications} />
               <Route path="/stats" component={Stats} />
               <Route path="/contact" component={Contact} />
               <Route path="/resume" component={Resume} />
