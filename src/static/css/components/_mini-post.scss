@@ -9,7 +9,7 @@
   position: relative;
 
   .description {
-    position: absolute;
+    position: flex;
     padding: 0;
     bottom: 0;
     border-top: solid 1px _palette(border);
@@ -30,6 +30,8 @@
       background-color: rgba(255,255,255,.9);
     }
   }
+
+
   
   @media (max-width: 480px) {
     .description {
