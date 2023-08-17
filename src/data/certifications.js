@@ -21,6 +21,16 @@ const data = [
         'This course took a deep dive into the web development languages HTML and CSS. I learned how to be proficient in both languages and how to use them to create a website.',
     },
     {
+      title: 'Programming with JavaScript',
+      subtitle: 'Website',
+      link: 'https://www.coursera.org/account/accomplishments/verify/2A9AV3N4ZWEL',
+      image: '/images/certifications/JavaScript_Cert.png',
+      date: '2023-08-17',
+      desc:
+        'This is my certification I received from Meta for completing their Programming with JavaScript course. ' +
+        'This course introduced me Javascript and refreshed me memory on the fundamentals of programming.',
+    },
+    {
       title: 'Introduction to Front-End Development',
       subtitle: 'Website',
       link: 'https://www.coursera.org/account/accomplishments/verify/4XJET5KW85G8',
